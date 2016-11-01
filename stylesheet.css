@@ -193,7 +193,6 @@ p {
 }
 
 .signupbutton {
-  font-family: Karla; Arial; sans-serif;
   text-transform: uppercase;
   text-align: center;
   cursor: pointer;
@@ -291,7 +290,7 @@ p {
 }
 
 table {
-  font-family: Karla; arial; sans-serif;
+  /*font-family: Karla; arial; sans-serif;*/
   text-align: center;
   color: #2d2d2d;
   width: auto;
