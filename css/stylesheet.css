@@ -520,6 +520,10 @@ footer a {
   padding-left: 20px;
 }
 
+.copyright a:hover {
+  color: #b64036;
+}
+
 .address {
   color: grey;
 }
@@ -530,6 +534,10 @@ footer a {
   color: white;
   line-height: 25px;
   padding-right: 30px;
+}
+
+.social-list:hover {
+  color: #b64036;
 }
 
 @media all and (max-width: 700px){
